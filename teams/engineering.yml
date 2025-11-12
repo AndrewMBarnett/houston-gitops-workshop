@@ -49,3 +49,5 @@ team_settings:
         - 1
         - 2
 software:
+  packages:
+    - path: ../lib/macos/software/zoom.yml
