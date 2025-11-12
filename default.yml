@@ -28,4 +28,4 @@ org_settings:
   webhook_settings:
     activities_webhook:
       enable_activities_webhook: true
-      destination_url: "https://tamucs.webhook.office.com/webhookb2/77a455d7-804a-4400-85a0-6aea3a61d87e@68f381e3-46da-47b9-ba57-6f322b8f0da1/IncomingWebhook/88a63ca0201c4a74b889390a6c366850/e00e181d-8093-4a33-9d1a-67558616dc27/V2dKBvfEE9P7rwW5b_kQfL7Dv2KHNwYiDAaqT2v6STMrk1"
+      destination_url: "https://webhook.site/c936e4b9-8e0b-46d7-ac98-e383add843e2"
