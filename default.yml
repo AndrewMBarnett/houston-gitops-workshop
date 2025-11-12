@@ -20,6 +20,9 @@ org_settings:
     server_url: $FLEET_URL
   org_info:
     org_name: AndrewsFleetServer
+    org_logo_url: "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcontent.sportslogos.net%2Flogos%2F34%2F866%2Ffull%2F4536_texas_a%26m_aggies-mascot-2001.png&f=1&nofb=1&ipt=cc1a808141fa790af21d6e8566f58cca3fca91c4b0665e328725d68a58388c95"
+    org_logo_url_light_background: "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcontent.sportslogos.net%2Flogos%2F34%2F866%2Ffull%2F8736_texas_a%26m_aggies-misc-2001.png&f=1&nofb=1&ipt=7e0dcdd4ee2f99acf9f51a4a6c5eb8f92b0966cba49ae68c658c9b4eb312059c"
+    contact_url: https://fleetdm.com/company/contact
   secrets:
     - secret: "$FLEET_GLOBAL_ENROLL_SECRET"
   features:
