@@ -49,6 +49,6 @@ team_settings:
         - 1
         - 2
 software:
+  self_service: true
   packages:
     - path: ../lib/macos/software/zoom.yml
-  self_service: true
