@@ -25,9 +25,14 @@ controls:
   macos_updates:
     deadline: "2025-11-30"
     minimum_version: "26.1"
+  ipados_updates:
+    deadline: "2025-11-30"
+    minimum_version: "26.1"
   scripts:
     - path: ../lib/macos/scripts/remove-zoom-artifacts.script.sh
     - path: ../lib/macos/scripts/set-timezone.script.sh
+    - path: ../lib/windows/scripts/set-wallpaper.ps1
+  enable_disk_encryption: true
 team_settings:
   secrets:
     - secret: "$FLEET_ENGINEERING_ENROLL_SECRET"
